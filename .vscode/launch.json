@@ -1,0 +1,10 @@
+{
+    "configurations": [
+    {
+        "name": "My iPhone",
+        "type": "dart",
+        "request": "launch",
+        "deviceId": "00008101-001C702E1A98001E",
+    }
+    ]
+}
