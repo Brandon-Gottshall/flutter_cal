@@ -5,6 +5,12 @@
         "type": "dart",
         "request": "launch",
         "deviceId": "00008101-001C702E1A98001E",
+    },
+    {
+        "name": "iPhone mini sim",
+        "type": "dart",
+        "request": "launch",
+        "deviceId": "60F158C0-0EFA-448D-A115-8F5CA2889AA5",
     }
     ]
 }
